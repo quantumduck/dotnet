@@ -1,0 +1,8 @@
+/home/ben/projects/dotnet/exp1/bin/Debug/netcoreapp1.1/exp1.deps.json
+/home/ben/projects/dotnet/exp1/bin/Debug/netcoreapp1.1/exp1.runtimeconfig.json
+/home/ben/projects/dotnet/exp1/bin/Debug/netcoreapp1.1/exp1.runtimeconfig.dev.json
+/home/ben/projects/dotnet/exp1/obj/Debug/netcoreapp1.1/exp1.AssemblyInfo.cs
+/home/ben/projects/dotnet/exp1/bin/Debug/netcoreapp1.1/exp1.dll
+/home/ben/projects/dotnet/exp1/bin/Debug/netcoreapp1.1/exp1.pdb
+/home/ben/projects/dotnet/exp1/obj/Debug/netcoreapp1.1/exp1.dll
+/home/ben/projects/dotnet/exp1/obj/Debug/netcoreapp1.1/exp1.pdb
