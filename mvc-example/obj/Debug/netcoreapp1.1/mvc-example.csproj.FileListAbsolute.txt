@@ -1,0 +1,8 @@
+/home/ben/projects/dotnet/mvc-example/bin/Debug/netcoreapp1.1/mvc-example.deps.json
+/home/ben/projects/dotnet/mvc-example/bin/Debug/netcoreapp1.1/mvc-example.runtimeconfig.json
+/home/ben/projects/dotnet/mvc-example/bin/Debug/netcoreapp1.1/mvc-example.runtimeconfig.dev.json
+/home/ben/projects/dotnet/mvc-example/bin/Debug/netcoreapp1.1/mvc-example.dll
+/home/ben/projects/dotnet/mvc-example/bin/Debug/netcoreapp1.1/mvc-example.pdb
+/home/ben/projects/dotnet/mvc-example/obj/Debug/netcoreapp1.1/mvc-example.AssemblyInfo.cs
+/home/ben/projects/dotnet/mvc-example/obj/Debug/netcoreapp1.1/mvc-example.dll
+/home/ben/projects/dotnet/mvc-example/obj/Debug/netcoreapp1.1/mvc-example.pdb
